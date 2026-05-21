@@ -16,16 +16,6 @@
 
 ---
 
-## 🧠 Teaching Flow
-
-```
-without_pipeline.ipynb   →   test_without_pipeline.ipynb
-       ↓ (students feel the pain)
-with_pipeline.ipynb      →   test_with_pipeline.ipynb
-       ↓ (students see the contrast)
-        "Pipelines make sense now."
-```
-
 ---
 
 ## ⚙️ Setup
@@ -34,14 +24,6 @@ with_pipeline.ipynb      →   test_with_pipeline.ipynb
 pip install pandas numpy scikit-learn joblib
 ```
 
-**Recommended Workshop Flow:**
-
-1. `without_pipeline.ipynb` — build & train manually
-2. `test_without_pipeline.ipynb` — **discuss pain points with the class**
-3. `with_pipeline.ipynb` — introduce pipelines as the solution
-4. `test_with_pipeline.ipynb` — show how clean inference becomes
-
----
 
 ## 🎯 Task
 
